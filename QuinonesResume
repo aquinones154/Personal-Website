@@ -11,8 +11,15 @@
         <script src="index.js"></script>
         <p>
            <h1> Andres Quinones </h1>
+           <h3> An outgoing undersgraduate student intrested in opportunity and employment</h3>
         </p> 
-        </body>
-        My name is Andres 
-  </body>
+        <h4> Education</h4>
+        <li> Thomas Kelly College Prepretory-Chicago, Illinois</li>
+        <ul> <li>Throughout high school I learned the importance of being punctual
+          and organized to accomplish tasks. As a diploma canidate for the International Baccalaureate Program, I was
+          often challegned and asked to complete tasks within a set of given parameters as well as in 
+          an timely fashion.<li> 
+             <ul>
+        
+
 </html>
