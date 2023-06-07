@@ -43,7 +43,11 @@ h3{
     text-align :justify
 }
 
-h5 {
-    text-align: center; 
-    vertical-align: text-bottom;
+div.education {
+    text-align: left;
+    background-color: lightgrey;
+}
+
+p {
+    text-align: left;
 }
