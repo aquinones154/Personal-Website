@@ -53,6 +53,13 @@ hr.new3 {
     margin-left: 1px;
 }
 
+hr.new4{
+    border: 3px solid darkslategray;
+    border-radius : 3px;
+    width: 25%;
+    margin-left: 1px;
+}
+
 div.education {
     text-align: left;
     background-color: lightgrey;
@@ -68,6 +75,15 @@ div.work{
 }
 
 h3.wrkTitle {
+    font-size: 30px;
+}
+
+div.exp{
+    text-align: left;
+    background-color: lightgrey; 
+}
+
+h3.expTitle{
     font-size: 30px;
 }
 
