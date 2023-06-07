@@ -39,8 +39,11 @@ hr.new1 {
     width : 95%;
 }
 
-h3{
-    text-align :justify
+hr.new2 {
+    border: 3px solid darkslategray;
+    border-radius : 3px;
+    width: 25%;
+    margin-left: 1px;
 }
 
 div.education {
@@ -48,6 +51,9 @@ div.education {
     background-color: lightgrey;
 }
 
-p {
-    text-align: left;
+h3.eduTitle {
+    font-size: 30px;
 }
+
+
+
