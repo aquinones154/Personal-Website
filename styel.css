@@ -1,14 +1,12 @@
-body {
-    background-color: lightgrey; 
-    font-family:'Times New Roman', Times, serif
-} 
 
-h1{
-    text-align: center; 
+body{
+    background-color: lightgrey;
 }
-h4{
-    text-align: center;
-}
-a{
-    color:black; 
+div{
+    text-align : center;
+    background-color: #56887D; 
+    width : auto; 
+    border: 15px gainsboro;
+    padding : 50px;
+    margin : 20px;
 }
