@@ -42,3 +42,8 @@ hr.new1 {
 h3{
     text-align :justify
 }
+
+h5 {
+    text-align: center; 
+    vertical-align: text-bottom;
+}
