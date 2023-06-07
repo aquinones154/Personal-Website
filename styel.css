@@ -1,6 +1,7 @@
 
 body{
     background-color: lightgrey;
+    font-family : cambria;
 }
 div{
     text-align : center;
@@ -9,4 +10,24 @@ div{
     border: 15px gainsboro;
     padding : 50px;
     margin : 20px;
+}
+
+a:link {
+    color: black; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkslategrey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgrey;
+    text-decoration: none;
+}
+
+a:active {
+    color: darkslategrey;
+    text-decoration: none;
 }
